@@ -1,0 +1,31 @@
+Jane Doe
+San Francisco, CA | jane.doe@example.com | linkedin.com/in/janedoe
+
+SUMMARY
+Software engineer with 4 years of experience building backend services in Python
+and Go. Comfortable across the stack with exposure to cloud infrastructure,
+data pipelines, and ML-adjacent tooling.
+
+EXPERIENCE
+
+Acme Corp — Software Engineer II (2022 – Present)
+- Designed and shipped a REST API in Python (FastAPI) handling 2M requests/day.
+- Migrated a monolithic Django service to a set of Go microservices, cutting
+  p95 latency from 480ms to 110ms.
+- Built CI/CD pipelines on GitHub Actions and deployed services to AWS (ECS, RDS).
+- Mentored two junior engineers and ran weekly code review sessions.
+
+Foobar Inc — Software Engineer I (2020 – 2022)
+- Implemented a data ingestion pipeline using Airflow and PostgreSQL, processing
+  ~50GB/day of event data.
+- Wrote unit and integration tests, raising backend coverage from 42% to 85%.
+- Collaborated with data scientists to expose model predictions via a Flask API.
+
+EDUCATION
+B.S. Computer Science, University of Illinois Urbana-Champaign, 2020.
+
+SKILLS
+Languages: Python, Go, SQL, JavaScript
+Frameworks: FastAPI, Django, Flask, React (basic)
+Infra: AWS (ECS, RDS, S3, Lambda), Docker, GitHub Actions, Terraform (basic)
+Data: PostgreSQL, Redis, Airflow, Kafka (basic)

@@ -1,0 +1,26 @@
+Senior Backend Engineer — Platform Team
+
+We are looking for a Senior Backend Engineer to join our Platform team. You
+will design and build high-throughput Python services that power our core
+product, partner with infrastructure engineers on AWS-based deployments, and
+help scale our data pipelines as the company grows.
+
+Responsibilities:
+- Build and maintain scalable backend services in Python (FastAPI preferred).
+- Design APIs that are performant, observable, and well-tested.
+- Own services end-to-end: design, implementation, deployment, and on-call.
+- Collaborate on AWS infrastructure (ECS, RDS, S3) and CI/CD via GitHub Actions.
+- Improve developer productivity through tooling, testing, and code review.
+- Contribute to data pipelines and event-driven systems (Kafka, Airflow).
+
+Requirements:
+- 4+ years of backend engineering experience.
+- Strong Python expertise; experience with FastAPI or similar async frameworks.
+- Hands-on experience with AWS, Docker, and CI/CD.
+- Solid SQL and PostgreSQL skills.
+- Experience mentoring junior engineers and driving code quality.
+
+Nice to have:
+- Experience with Go or another systems language.
+- Exposure to Kafka, Airflow, or other streaming/orchestration tooling.
+- Background in performance optimization and latency-sensitive systems.

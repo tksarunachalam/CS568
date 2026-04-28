@@ -1,0 +1,6 @@
+openai>=1.30.0
+anthropic>=0.40.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+# Optional: only required if --scorer embedding is used.
+# sentence-transformers>=2.6.0
